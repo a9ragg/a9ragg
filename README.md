@@ -16,22 +16,11 @@
   - `Seaborn` 🌈
   - `Tkinter` 🖥️
 - 💡 Always curious to learn and build real-world projects!
-- 🤖 Currently learning **Machine Learning**
-- 🧩 I enjoy solving problems and building cool stuff that saves time 🤖
-
-
 
 📫 Let's Connect
 
 - 📌 **GitHub**: You're here already 😄  
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/anurag-xess-547241254/]
-
-
-
-⚡ Fun Fact
-
-> I automate things that annoy me – and I *love* it when machines do the boring work! 😎
-
 
 🛠️ Tech Stack
 
@@ -41,14 +30,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/Seaborn-546c7c?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-blueviolet?style=for-the-badge)
-
-
-
-✨ Quote I Live By
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
 
 ### 🏷️ Badges
 
