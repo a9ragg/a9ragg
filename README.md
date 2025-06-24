@@ -55,7 +55,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragxess&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragxess&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a9ragg&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a9ragg&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a9ragg&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=radical" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=a9ragg&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <br />
+  <img src="https://github-contribution-graph.ez4o.com/?username=a9ragg&theme=radical" />
+</p>
