@@ -59,13 +59,6 @@
 ![Student](https://img.shields.io/badge/-CS%20Student-red?style=for-the-badge)
 
 
-
-<p align="center">
-  <img src="https://your-image-host.com/languages-pie.png" alt="Languages Pie Chart" width="400" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=tokyonight&langs_count=6" />
-</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
 <br />
 
