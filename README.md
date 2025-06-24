@@ -16,6 +16,7 @@
   - `Seaborn` 🌈
   - `Tkinter` 🖥️
 - 💡 Always curious to learn and build real-world projects!
+- 🤖 Currently learning **Machine Learning**
 - 🧩 I enjoy solving problems and building cool stuff that saves time 🤖
 
 
