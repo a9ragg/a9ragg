@@ -24,9 +24,8 @@
 
 - 📌 **GitHub**: You're here already 😄  
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/anurag-xess-547241254/]
-- 📧 **Email**: [anuragxess62@gmail.com]
 
----
+
 
 ⚡ Fun Fact
 
