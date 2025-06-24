@@ -58,10 +58,6 @@
 ![Tech Enthusiast](https://img.shields.io/badge/-Tech%20Enthusiast-orange?style=for-the-badge)
 ![Student](https://img.shields.io/badge/-CS%20Student-red?style=for-the-badge)
 
-
-
-
-
 <p align="center">
   <img src="https://github-contribution-graph.ez4o.com/?username=a9ragg&theme=tokyonight" />
 </p>
@@ -71,8 +67,8 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a9ragg&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=radical" />
-  <br />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=radical" />
+  <br /> -->
   <img src="https://github-profile-trophy.vercel.app/?username=a9ragg&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
   <br />
   
