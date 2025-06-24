@@ -59,10 +59,7 @@
 ![Student](https://img.shields.io/badge/-CS%20Student-red?style=for-the-badge)
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a9ragg&theme=radical" />
-</p>
+
 
 
 <p align="center">
