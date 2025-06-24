@@ -54,3 +54,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=a9ragg&show_icons=true&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragxess&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragxess&theme=radical" />
+</p>
+
