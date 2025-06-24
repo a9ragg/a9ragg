@@ -61,10 +61,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a9ragg&show_icons=true&theme=radical" />
-  <br />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a9ragg&theme=radical" />
-  <br /> -->
+  <img src="https://your-image-host.com/languages-pie.png" alt="Languages Pie Chart" width="400" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
 <br />
 
