@@ -65,8 +65,9 @@
   <br />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a9ragg&theme=radical" />
   <br /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=radical" />
-  <br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9ragg&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
+<br />
+
   <img src="https://github-profile-trophy.vercel.app/?username=a9ragg&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
   <br />
   
