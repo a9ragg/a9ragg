@@ -58,9 +58,7 @@
 ![Tech Enthusiast](https://img.shields.io/badge/-Tech%20Enthusiast-orange?style=for-the-badge)
 ![Student](https://img.shields.io/badge/-CS%20Student-red?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=a9ragg&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a9ragg&show_icons=true&theme=radical" />
