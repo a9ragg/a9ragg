@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Anurag Xess</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+AI+%F0%9F%A4%96+%7C+Python+%F0%9F%90%8D+Lover+%7C+Automation+Enthusiast+%E2%9A%99%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+AI+%F0%9F%A4%96+%7C+Python+%F0%9F%90%8D+Automation+%7C+Enthusiast+%E2%9A%99%EF%B8%8F" />
 </p>
 
 
